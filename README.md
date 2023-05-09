@@ -8,8 +8,8 @@ pip install torchmetrics
 ```
 ## Usage
 To use this implementation, obtain the datasets with instructions shown below.
-Run the Brats_dataloader.ipynb sequentially to create the BraTS dataloader, MNet model, and train the model.
-Run the Kits_dataloader.ipynb sequentially to create the KiTS dataloader, MNet model, and train the model.
+Run the Brats_MNet.ipynb sequentially to create the BraTS dataloader, MNet model, and train the model.
+Run the Kits_MNet.ipynb sequentially to create the KiTS dataloader, MNet model, and train the model.
 
 
 ## Datasets
